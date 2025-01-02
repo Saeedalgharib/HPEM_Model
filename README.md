@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```python
 # Hybrid Polynomial Ensemble Model (HPEM)
 
@@ -37,3 +38,7 @@ python HPEM-Model-Code.py
 This project is licensed under the MIT License.
 
 ```
+=======
+# HPEM_Model
+Hybrid Polynomial Ensemble Model (HPEM) combines Random Forest, Gradient Boosting, SVM, and XGBoost to enhance cardiovascular disease prediction. It uses mutual information for feature selection, metrics like F1-Score for evaluation, and SHAP/LIME for explainability, ensuring accuracy and transparency.
+>>>>>>> fb46d6c898b28449db38a370485fd83206aea357
